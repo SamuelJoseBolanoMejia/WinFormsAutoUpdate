@@ -63,7 +63,7 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.listBox1);
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.performanceCounter1)).EndInit();
+            //((System.ComponentModel.ISupportInitialize)(this.performanceCounter1)).EndInit();
             this.ResumeLayout(false);
 
         }
