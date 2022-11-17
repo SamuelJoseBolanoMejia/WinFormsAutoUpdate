@@ -38,7 +38,7 @@ namespace WindowsFormsApp1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(141, 141);
+            this.label1.Location = new System.Drawing.Point(12, 333);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(512, 108);
             this.label1.TabIndex = 0;
@@ -57,9 +57,9 @@ namespace WindowsFormsApp1
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(410, 197);
+            this.progressBar1.Location = new System.Drawing.Point(530, 225);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(100, 213);
+            this.progressBar1.Size = new System.Drawing.Size(277, 213);
             this.progressBar1.TabIndex = 3;
             // 
             // Form1
