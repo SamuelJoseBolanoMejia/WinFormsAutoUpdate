@@ -67,7 +67,7 @@ namespace WindowsFormsApp1
             // 
             // groupBox1
             // 
-            this.groupBox1.Location = new System.Drawing.Point(502, 322);
+            this.groupBox1.Location = new System.Drawing.Point(301, 200);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(200, 100);
             this.groupBox1.TabIndex = 3;
