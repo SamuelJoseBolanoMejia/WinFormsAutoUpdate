@@ -1,0 +1,13 @@
+D:\WinFormsAutoUpdate\TrialApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WinFormsAutoUpdate\TrialApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+D:\WinFormsAutoUpdate\TrialApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+D:\WinFormsAutoUpdate\TrialApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WinFormsAutoUpdate\TrialApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WinFormsAutoUpdate\TrialApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WinFormsAutoUpdate\TrialApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WinFormsAutoUpdate\TrialApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WinFormsAutoUpdate\TrialApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WinFormsAutoUpdate\TrialApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+D:\WinFormsAutoUpdate\TrialApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+D:\WinFormsAutoUpdate\TrialApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WinFormsAutoUpdate\TrialApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
