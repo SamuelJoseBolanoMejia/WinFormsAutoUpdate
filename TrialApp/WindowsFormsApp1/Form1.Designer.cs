@@ -40,7 +40,7 @@ namespace WindowsFormsApp1
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(432, 108);
             this.label1.TabIndex = 0;
-            this.label1.Text = "version 1";
+            this.label1.Text = "version 2";
             // 
             // Form1
             // 
