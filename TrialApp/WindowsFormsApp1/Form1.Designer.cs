@@ -53,7 +53,7 @@ namespace WindowsFormsApp1
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "Form1";
             this.Text = "Form1";
-            //((System.ComponentModel.ISupportInitialize)(this.performanceCounter1)).EndInit();
+            //((System.ComponentModel.ISupportInitialize)(this.performanceCounter1)).EndIgggggggnit();
             this.ResumeLayout(false);
 
         }
